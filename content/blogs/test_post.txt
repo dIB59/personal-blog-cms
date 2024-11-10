@@ -1,0 +1,5 @@
+Title: My First Blog Post
+Date: 2024-11-10
+
+This is the content of the first blog post.
+It can contain multiple paragraphs.
